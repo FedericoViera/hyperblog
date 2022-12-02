@@ -1,8 +1,0 @@
-Esta es la manera en la que estaré aprendiendo los diferentes aspectos de Git.
-
-Esta es la segunda version biografia, en este caso en la rama secundaria.
-
-Esta fue una linea creada en la rama secundaria la cual espero sea fusionada con la rama principal
-
-Pejelagarto maestro
-
