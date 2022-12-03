@@ -9,3 +9,7 @@ Mi conocimiento sobre Git comprende:
 * El flujo de trabajo profesional de la herramienta
 * El verdadero amor por las buenas practicas del uso de las mismas
 * Creacion de ALIAS para crear mis propios comandos de Git
+
+Creado por el increible Federico Viera
+Ademas de que es bastante evidente que lo ha realizado todo por su cuenta.
+Y es increible por si no quedo claro
